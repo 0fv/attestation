@@ -1,0 +1,7 @@
+{
+  "name": "android-attestation-status-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vercel reverse proxy for https://android.googleapis.com/attestation/status"
+}
